@@ -1,4 +1,8 @@
 This is demo file
 This is new branch for stash
 This is new 
+<<<<<<< Updated upstream
 Hii
+=======
+This is stash
+>>>>>>> Stashed changes
